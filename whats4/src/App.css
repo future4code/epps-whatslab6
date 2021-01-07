@@ -1,0 +1,54 @@
+/* .main {
+  display: flex;
+  align-items: center;
+  background-color: grey;
+  flex-direction: column;
+  font-family: Langar;
+}
+
+.divMsg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: grey;
+  width: 50vw;
+  height: 100vh;
+  border: 2px solid black;
+}
+
+form {
+  width: 20vw;
+  height: 5vh;
+  display: flex;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+input .usuario {
+  width: 20vw;
+  height: 5vh;
+  border-radius: 5px;
+  margin-left: 1vw;
+}
+
+input .mensagem {
+  width: 65vw;
+  height: 5vh;
+  border-radius: 5px;
+  margin-left: 1vw;
+}
+
+button {
+  width: 10vw;
+  height: 50vh;
+  border-radius: 5px;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  font-weight: bolder;
+}
+
+button:hover{
+  background-color: red;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+ */
